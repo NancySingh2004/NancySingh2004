@@ -17,9 +17,9 @@ I enjoy building responsive web apps using the MERN stack and solving coding pro
 
 ### 📊 Coding Profiles
 
-* [LeetCode](https://leetcode.com/NancySingh2004) – Max Rating: **1581**, 250+ problems solved
+* [LeetCode](https://leetcode.com/NancySingh2004) – Max Rating: **1654**, 250+ problems solved
 * [CodeChef](https://www.codechef.com/users/NancySingh2004) – Max Rating: **1639**, 🌍 Global Rank **46** in *Starters 189*
-* [Codeforces](https://codeforces.com/profile/NancySingh2004) – Max Rating: **961**
+* [Codeforces](https://codeforces.com/profile/NancySingh2004) – Max Rating: **1018**
 
 ---
 
