@@ -40,7 +40,7 @@ I enjoy building responsive web apps using the MERN stack and solving coding pro
 * [CodeNest](https://github.com/NancySingh2004/Online_judge)
 * [Fitness App](https://github.com/NancySingh2004/fitnessapp)
 * [JavaScript Projects](https://github.com/NancySingh2004/javascriptprojects)
-* [Brand Page](https://github.com/NancySingh2004/BrandPage)
+* [Ecommerce App](https://github.com/NancySingh2004/Ecommerce-app)
 
 ---
 
