@@ -37,10 +37,10 @@ I enjoy building responsive web apps using the MERN stack and solving coding pro
 ### 🌟 Profiles to Check Out
 
 * [Responsive Portfolio Website](https://github.com/NancySingh2004/responsiveportfolio)
+* [CodeNest](https://github.com/NancySingh2004/Online_judge)
+* [Fitness App](https://github.com/NancySingh2004/fitnessapp)
 * [JavaScript Projects](https://github.com/NancySingh2004/javascriptprojects)
 * [Brand Page](https://github.com/NancySingh2004/BrandPage)
-* [BYTEBURST](https://github.com/NancySingh2004/BYTEBURST)
-* [Contact Us Page](https://github.com/NancySingh2004/Contactus)
 
 ---
 
